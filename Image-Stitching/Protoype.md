@@ -1,3 +1,15 @@
+Proses image stitching tidak menyatukan gambar secara acak. Sebaliknya, ia mencoba untuk menyusun gambar-gambar tersebut secara logis dan koheren berdasarkan fitur-fitur yang ada di dalam gambar. Prosesnya melibatkan:
+
+1. Deteksi Fitur: Setiap gambar dianalisis untuk mendeteksi fitur-fitur khusus seperti sudut, tepi, atau titik-titik unik lainnya.
+
+2. Pencocokan Fitur: Fitur-fitur tersebut kemudian dicocokkan antara dua gambar (atau lebih) untuk menemukan transformasi yang sesuai di antara mereka.
+
+3. Perhitungan Transformasi Perspektif: Berdasarkan pencocokan fitur, dilakukan perhitungan untuk menentukan transformasi perspektif yang memetakan satu gambar ke gambar lainnya.
+
+4. Warping dan Stitching: Gambar-gambar tersebut kemudian "ditarik" atau "diwarp" sesuai dengan transformasi perspektif yang telah dihitung, dan kemudian digabungkan untuk membentuk gambar akhir yang lebih besar.
+
+Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis dan benar secara perspektif. Sehingga, hasil akhirnya terlihat seperti satu gambar yang konsisten, bukan gabungan acak dari beberapa gambar.
+
 # 1. Clone Repositori dan install paket-paket ini :
 - Clone repositori yang berisi gambar-gambar yang akan disatukan. Anda telah menggunakan repositori ini: [https://github.com/kaliadi/image-Stiching](https://github.com/kaliadi/image-Stiching).
 
