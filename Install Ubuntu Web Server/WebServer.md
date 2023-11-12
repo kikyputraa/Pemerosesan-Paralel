@@ -1,4 +1,6 @@
 # Instalasi Web Server pada Ubuntu Server
+
+## Instalasi Ubuntu Server
 ![image](https://github.com/Kikyputraa/MPI-Numerik/assets/150577938/1e455e59-7956-4af9-b63e-6fd75c0fa3db)
 
 ![image](https://github.com/Kikyputraa/MPI-Numerik/assets/150577938/ee84be23-d8eb-412d-956f-6a612fbacc1e)
@@ -50,3 +52,42 @@
 ![image](https://github.com/Kikyputraa/MPI-Numerik/assets/150577938/3420b891-583c-44dd-9a85-2a97c2f368df)
 
 ![image](https://github.com/Kikyputraa/MPI-Numerik/assets/150577938/d8432486-077d-40ab-bde8-000c1d51ab40)
+
+## Masuk/Login ke Ubuntu Server menggunakan Putty SSH server
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/ff137079-2203-481b-b2d7-07f7aa999a3c)
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/dae9ef75-a408-4be7-8444-2b4e11689bc8)
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/cac2da0f-576c-420d-a278-40b00d4e30c3)
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/d3cb86f1-16bc-416c-98e9-1239ab135c44)
+
+## 3.	Instalasi Wordpress di Ubuntu Server menggunakan MySQL dan Apache2
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/74139e2a-e596-4d53-b1de-7a9c7272d5ea)
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/d77872ad-3e72-4fc6-a97e-a8a639cb06fd)
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/d03a7528-ad16-40c7-a183-eb5b2ab1c61e)
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/25dc2e97-81c1-404b-9bb7-530a0f10986d)
+
+## Karena sebelum saya mengerjakan laporan saya sudah pernah menginstall, maka tampilan pada “http://192.168.43.174/wordpress/wp-admin/install.php” berubah seperti ini
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/8bcf1de1-37b3-4686-bda5-4f14b49d4cf0)
+
+## Langsung saja kita masuk ke Admin Page
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/afaac959-4282-4c43-b86b-82d6605de34c)
+
+## Ini adalah tampilan Homepage untuk Admin Server
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/43934f52-c7f1-4582-b54a-16859dc192db)
+
+## Anda dapat memilih Template/Themes untuk Halaman Web anda disini
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/1002a768-a35d-40be-86df-43391f683649)
+
+## Ini adalah tampilan Halaman Web anda pada saat pengunjung masuk
+
+![image](https://github.com/Kikyputraa/RizkiPutraR_09011182126024/assets/150577938/0a9a1b41-1ea7-437c-a378-cd32b6b6f014)
+
