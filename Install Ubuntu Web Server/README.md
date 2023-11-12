@@ -1,4 +1,4 @@
-# Instalasi MPI pada Ubuntu Server
+# Instalasi Web Server pada Ubuntu Server
 ![image](https://github.com/Kikyputraa/MPI-Numerik/assets/150577938/1e455e59-7956-4af9-b63e-6fd75c0fa3db)
 
 ![image](https://github.com/Kikyputraa/MPI-Numerik/assets/150577938/ee84be23-d8eb-412d-956f-6a612fbacc1e)
