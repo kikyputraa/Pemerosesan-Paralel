@@ -197,7 +197,7 @@ $ touch bubblesort.py
 
 $ sudo nano bubblesort.py
 
-<img width="448" alt="image" src="https://github.com/Kikyputraa/MPI-Bubblesort/assets/150577938/6bd93229-05a7-4bef-b117-0da842bc618f">
+<img width="438" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/45d8c461-5600-4030-945b-3fa5563b925e">
 
 ## 2.	Instalasi Python
 
@@ -210,10 +210,11 @@ $ sudo apt install python3-pip
 
 $ python3 bubblesort.py
 
-<img width="391" alt="image" src="https://github.com/Kikyputraa/MPI-Bubblesort/assets/150577938/4aa3f0d0-9775-4965-bfd3-ff02d7380e80">
+<img width="394" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/fc52ca0c-f9b2-46f7-9623-bf371b313e09">
 
 ## 4. Eksekusi Bubblesort menggunakan MPI
 
 $ mpirun -np 3 -host master,worker,worker2,worker3 python3 bubblesort.py
 
-<img width="391" alt="image" src="https://github.com/Kikyputraa/MPI-Bubblesort/assets/150577938/154879aa-7ded-43e6-bae9-5403fc4d85ca">
+<img width="391" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/46a22e2b-c3dd-4b59-8f00-996159145d52">
+
