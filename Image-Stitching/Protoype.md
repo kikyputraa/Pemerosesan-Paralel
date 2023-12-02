@@ -44,6 +44,7 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 
 <img width="284" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/7c3bc7b7-9ccb-447d-bfe4-9ded16dde247">
 
+
 <img width="502" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/d4a1889e-0c6b-4fcc-8c28-aae328462fa7">
 
 # 3. Buat Script Image Stitching:
