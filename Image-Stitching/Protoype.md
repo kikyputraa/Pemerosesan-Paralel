@@ -15,6 +15,8 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 
 ### pip install opencv-python
 
+### pip install opencv-contrib-python
+
 ### pip install imutils
 
 ### pip install imutils numpy opencv-python requests
@@ -24,6 +26,14 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 ### pip install matplotlib
 
 ### sudo apt-get install feh
+
+### pip install numpy
+
+### pip install yapf
+
+### pip install pylint
+
+### pip install yapf
 
 
 # 2. Buat Script Image Stitching:
