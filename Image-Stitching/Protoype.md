@@ -37,6 +37,11 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 
 <img width="646" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/2b07d2bc-9b8c-456a-a8de-a42c7617d83e">
 
+# 2. Siapkan MPI dan Buatlah Folder bersama :
+<img width="386" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/a95e3391-f410-4532-8459-8e2adf51c40b">
+
+Folder yang berisi Video dan Gambar untuk proses Stitching
+<img width="284" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/7c3bc7b7-9ccb-447d-bfe4-9ded16dde247">
 
 # 2. Buat Script Image Stitching:
 - Gunakan script berikut untuk melakukan image stitching. Simpan script ini sebagai `image_stitching.py`.
