@@ -54,19 +54,12 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 
 <img width="568" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/9d73c616-2021-498d-abc0-ce1a5a5dda5d">
 
-# 4. Jalankan Script secara individu dengan xvfb-run:
-- Gunakan `xvfb-run` untuk menjalankan script tanpa tampilan GUI.
-### xvfb-run -s "-screen 0 1920x1200x24" python3 image_stitching.py
-- Script ini akan menghasilkan file `output.png`.
+# 4. Jalankan Script secara individu dengan:
+- Gunakan `python3` untuk menjalankan script secara individu.
+### python3 image_stitching.py
+- Script ini akan menghasilkan file `hasil.png`.
 
+<img width="264" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/2bce9551-3c0e-4667-a0d3-ad9af81f35fa">
 
-# 4. Memindahkan File ke Pengguna Lain:
-- Jika perlu, Anda dapat memindahkan file ke pengguna lain dengan perintah `sudo cp` atau `sudo mv`. Pastikan untuk mengganti pengguna_lain dengan nama pengguna yang sesuai.
-### sudo cp output.png /home/pengguna_lain/
-
-
-# 5. Memberikan Izin pada Pengguna Lain:
-- Atur kepemilikan file agar pengguna lain dapat membacanya atau memanipulasinya sesuai kebutuhan.
-### sudo chown pengguna_lain:pengguna_lain /home/pengguna_lain/output.png
-
-
+# 5. Jalankan Script secara MPI Bersama worker lain :
+- Gunakan `mpirun` untuk menjalankan script secara bersama.
