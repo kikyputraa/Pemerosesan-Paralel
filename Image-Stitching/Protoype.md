@@ -35,6 +35,8 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 
 ### pip install yapf
 
+<img width="646" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/2b07d2bc-9b8c-456a-a8de-a42c7617d83e">
+
 
 # 2. Buat Script Image Stitching:
 - Gunakan script berikut untuk melakukan image stitching. Simpan script ini sebagai `image_stitching.py`.
