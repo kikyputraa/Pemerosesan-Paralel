@@ -62,4 +62,8 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 <img width="264" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/2bce9551-3c0e-4667-a0d3-ad9af81f35fa">
 
 # 5. Jalankan Script secara MPI Bersama worker lain :
+- Mount Folder.
+
+<img width="466" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/1256667f-c6e7-4441-a601-3085eb7a925a">
+
 - Gunakan `mpirun` untuk menjalankan script secara bersama.
