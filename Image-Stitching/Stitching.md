@@ -67,3 +67,5 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 <img width="466" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/1256667f-c6e7-4441-a601-3085eb7a925a">
 
 - Gunakan `mpirun` untuk menjalankan script secara bersama.
+- 
+<img width="409" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/0d2227b2-c15c-4738-b0d8-5c92456f91e2">
