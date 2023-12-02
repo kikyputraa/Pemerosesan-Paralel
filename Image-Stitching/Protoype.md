@@ -40,14 +40,20 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 # 2. Siapkan MPI dan Buatlah Folder bersama :
 <img width="386" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/a95e3391-f410-4532-8459-8e2adf51c40b">
 
-Folder yang berisi Video dan Gambar untuk proses Stitching
+- Folder yang berisi Video dan Gambar untuk proses Stitching
+
 <img width="284" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/7c3bc7b7-9ccb-447d-bfe4-9ded16dde247">
 
-# 2. Buat Script Image Stitching:
-- Gunakan script berikut untuk melakukan image stitching. Simpan script ini sebagai `image_stitching.py`.
+<img width="502" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/d4a1889e-0c6b-4fcc-8c28-aae328462fa7">
 
+# 3. Buat Script Image Stitching:
+- Gunakan script berikut untuk melakukan kode python stitching. Simpan script ini sebagai `image_stitching.py`.
 
-# 3. Jalankan Script dengan xvfb-run:
+<img width="286" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/c257ac60-be3b-4bd9-8384-38dd9706d320">
+
+<img width="568" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/9d73c616-2021-498d-abc0-ce1a5a5dda5d">
+
+# 4. Jalankan Script secara individu dengan xvfb-run:
 - Gunakan `xvfb-run` untuk menjalankan script tanpa tampilan GUI.
 ### xvfb-run -s "-screen 0 1920x1200x24" python3 image_stitching.py
 - Script ini akan menghasilkan file `output.png`.
