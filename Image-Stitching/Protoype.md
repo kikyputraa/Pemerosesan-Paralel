@@ -42,6 +42,7 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 
 - Folder yang berisi Video dan Gambar untuk proses Stitching
 
+
 <img width="284" alt="image" src="https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/7c3bc7b7-9ccb-447d-bfe4-9ded16dde247">
 
 
