@@ -71,4 +71,5 @@ Proses ini memastikan bahwa gambar-gambar dijahit bersama dengan cara yang logis
 
 - Hasil
 
-![Uploading image.png…]()
+![WhatsApp Image 2023-12-03 at 16 05 44_0c4bdc0e](https://github.com/kikyputraa/Rizki-Putra-Ramadhan_09011182126024_PP_SK5B/assets/150577938/7ab96a2a-4d56-4716-b380-4784c2ed4542)
+
